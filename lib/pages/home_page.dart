@@ -10,7 +10,7 @@ class Home_Page extends StatelessWidget {
         title: Text("CATALOG APP"),
       ),
       body: Material(
-          color: Colors.lightBlueAccent,
+          color: null,
           child: Center(
             child: Container(
               child: Text("hello sir"),
